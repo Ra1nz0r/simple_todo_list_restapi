@@ -13,3 +13,8 @@
 По-умолчанию приложение запускается: ```0.0.0.0:8080```
 
 Данные передаются в файле ```internal/globals/test_map_with_example.go``` в формате ```map[string]Task```.
+
+***
+#### Пример:
+
+![logo](/web/example.jpg)
